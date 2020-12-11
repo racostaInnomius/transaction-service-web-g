@@ -1,6 +1,6 @@
 # Getting Started
 
-### To Run Spring Boot Aplication
+### To Run WebApplication Api Aplication
 1. Excecute maven command line: `mvn clean install`.
 2. Copy maven WAR generated file to your local Tomcat Server, command: `COPY "C:\{path_to_project}\transaction-service-web-g\target\transaction-service-web-g.war" "C:\{path_to_local_tomcat}\apache-tomcat\webapps\transaction-service-web-g.war"`.
 
